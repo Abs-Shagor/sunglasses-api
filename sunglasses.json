@@ -1,6 +1,6 @@
 
 [
-  { "id": 1, "brand": "Ray-Ban", "price": 300 },
+  { "id": 1, "brand": "Ray-Ban", "price": 400 },
   { "id": 2, "brand": "Oakley", "price": 200 },
   { "id": 3, "brand": "Gucci", "price": 350 },
   { "id": 4, "brand": "Prada", "price": 300 },
